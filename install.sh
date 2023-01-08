@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 
+# Update pip
+python -m pip install --upgrade pip
+
 # Install the virtualenv package
 pip install virtualenv
 
