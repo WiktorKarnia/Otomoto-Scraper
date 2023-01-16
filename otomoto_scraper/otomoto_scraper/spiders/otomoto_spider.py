@@ -14,6 +14,8 @@ class OtomotoSpider(scrapy.Spider):
         )
 
     def parse(self, response):
+        button = response.webdriver.find_element_by_xpath('//*[@id="__next"]/div/div/div/main/div[1]/article/fieldset/div/form/div[2]/button[2]')
+        button.click()
         title = response.css('title::text').extract()
         yield {'titletext' : title}
 
