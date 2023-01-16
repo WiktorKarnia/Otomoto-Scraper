@@ -48,6 +48,7 @@ COOKIES_ENABLED = False
 #    'otomoto_scraper.middlewares.OtomotoScraperSpiderMiddleware': 543,
 #}
 PROXY_POOL_ENABLED = True
+PROXY_POOL_BAN_POLICY = 'otomoto_scraper.policy.BanDetectionPolicyNotText'
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
