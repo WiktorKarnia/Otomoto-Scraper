@@ -9,6 +9,7 @@ constantly==15.1.0
 cryptography==39.0.0
 cssselect==1.2.0
 distlib==0.3.6
+et-xmlfile==1.1.0
 exceptiongroup==1.1.0
 filelock==3.8.0
 h11==0.14.0
@@ -19,6 +20,7 @@ itemadapter==0.7.0
 itemloaders==1.0.6
 jmespath==1.0.1
 lxml==4.9.2
+openpyxl==3.0.10
 outcome==1.2.0
 packaging==22.0
 parsel==1.7.0
@@ -38,6 +40,7 @@ Scrapy==2.7.1
 scrapy-proxy-pool==0.1.9
 scrapy-selenium==0.0.7
 scrapy-user-agents==0.1.1
+scrapy-xlsx==0.1.1
 selenium==4.7.2
 service-identity==21.1.0
 six==1.16.0

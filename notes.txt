@@ -1,0 +1,2 @@
+response.css('h2.e1b25f6f6.e1b25f6f20.ooa-10p8u4x.er34gjf0 a::text').getall()
+response.css('span.ooa-1bmnxg7.e1b25f6f11::text').getall()
