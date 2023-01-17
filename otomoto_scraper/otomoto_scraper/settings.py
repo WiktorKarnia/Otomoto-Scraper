@@ -66,9 +66,10 @@ DOWNLOADER_MIDDLEWARES = {
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'otomoto_scraper.pipelines.OtomotoScraperPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    'otomoto_scraper.pipelines.OtomotoScraperPipeline': 300,
+    'otomoto_scraper.pipelines.DuplicatesPipeline' : 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

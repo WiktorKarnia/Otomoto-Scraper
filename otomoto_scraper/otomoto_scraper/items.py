@@ -9,4 +9,10 @@ import scrapy
 class OtomotoScraperItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    id = scrapy.Field()
+    carname = scrapy.Field()
+    price = scrapy.Field()
+    year = scrapy.Field()
+    km = scrapy.Field()
+    capacity = scrapy.Field()
+    fuel_type = scrapy.Field()
