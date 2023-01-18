@@ -17,7 +17,7 @@ class OtomotoSpider(scrapy.Spider):
         while n_pages >= 2:
             home = self.start_urls[0]
             link = home + '?page='+ str(n_pages)
-            print("@@@@@" + link + "@@@@@ - page " + str(n_pages))
+            #print("@@@@@" + link + "@@@@@ - page " + str(n_pages))
             n_pages = n_pages - 1
             ##print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ - page " + str(n_pages))
             #yield response.follow(link, callback=self.parse)
@@ -58,4 +58,3 @@ class OtomotoSpider(scrapy.Spider):
             item['capacity'] = EngineCapacity
             item['fuel_type'] = car.css('li.ooa-1k7nwcr.e1teo0cs0::text')[FuelType].get()
             yield item
-        
