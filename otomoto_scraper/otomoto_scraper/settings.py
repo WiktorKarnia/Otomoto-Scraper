@@ -7,6 +7,8 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+#from otomoto_scraper.exporters import MyCsvItemExporter
+
 BOT_NAME = 'otomoto_scraper'
 
 SPIDER_MODULES = ['otomoto_scraper.spiders']
@@ -97,4 +99,5 @@ REQUEST_FINGERPRINTER_IMPLEMENTATION = '2.7'
 TWISTED_REACTOR = 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'
 FEED_EXPORTERS = {
     'xlsx': 'scrapy_xlsx.XlsxItemExporter',
+    #'csv': 'otomoto_scraper.exporters.MyCsvItemExporter',
 }

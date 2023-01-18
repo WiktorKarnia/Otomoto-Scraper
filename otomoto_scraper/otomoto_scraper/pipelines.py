@@ -27,3 +27,4 @@ class DuplicatesPipeline:
         else:
             self.ids_seen.add(adapter['id'])
             return item
+        
