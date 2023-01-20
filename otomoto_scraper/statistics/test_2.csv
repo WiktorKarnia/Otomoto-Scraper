@@ -1,0 +1,128 @@
+capacity,carname,fuel_type,id,km,price,year
+1 991 cm3,Mercedes-Benz Klasa B 200 CDI,Diesel,6105598645,256 000 km,25 900 PLN,2011
+1 598 cm3,Opel Mokka 1.6 Cosmo S&S,Benzyna,6106029101,98 000 km,51 500 PLN,2014
+1 595 cm3,Audi A4 1.6,Benzyna,6106029201,250 453 km,5 990 PLN,1996
+1 950 cm3,Mercedes-Benz Klasa E 220 d 4-Matic AMG,Diesel,6105541855,108 000 km,202 335 PLN,2021
+4 663 cm3,Mercedes-Benz Klasa S,Benzyna,6099799148,83 852 km,330 000 PLN,2016
+2 996 cm3,Mercedes-Benz GLE 400 4-Matic 9G-TRONIC,Benzyna,6100522120,40 000 km,219 000 PLN,2017
+3 604 cm3,Jeep Gladiator,Benzyna,6101466369,9 900 km,254 000 PLN,2021
+1 991 cm3,Mercedes-Benz Klasa C 300 9G-TRONIC,Benzyna,6105069905,58 300 km,132 840 PLN,2018
+1 353 cm3,Kia Pro_cee'd ProCeed 1.4 T-GDI DCT7 OPF,Benzyna,6106027333,85 465 km,99 900 PLN,2019
+1 498 cm3,Volkswagen Tiguan 1.5 TSI EVO,Benzyna,6105752367,1 km,144 620 PLN,2023
+1 388 cm3,Ford Fusion 1.4 Trend,Benzyna,6106029091,201 000 km,15 800 PLN,2006
+4 395 cm3,BMW-ALPINA B5 Biturbo Touring Switch-Tronic,Benzyna,6106318015,68 710 km,425 900 PLN,2018
+1 998 cm3,BMW Seria 2 220i Gran Tourer,Benzyna,6105299152,72 580 km,120 000 PLN,2019
+1 956 cm3,Opel Insignia,Diesel,6103108247,227 000 km,29 900 PLN,2013
+0,Tesla Model S 90 D Performance,Elektryczny,6105298734,139 340 km,229 000 PLN,2015
+1 995 cm3,BMW X1 xDrive18d xLine,Diesel,6104971605,171 000 km,89 999 PLN,2016
+2 987 cm3,Mercedes-Benz GLK 350 CDI 4-Matic,Diesel,6105006589,250 000 km,56 900 PLN,2009
+2 497 cm3,Kia Sorento,Diesel,6106027998,228 013 km,30 000 PLN,2008
+1 598 cm3,Nissan Juke 1.6,Benzyna,6101183936,33 000 km,55 000 PLN,2018
+1 995 cm3,BMW Seria 3 318d,Diesel,6103108182,175 000 km,29 900 PLN,2012
+1 968 cm3,Audi Q5,Diesel,6103991640,11 900 km,259 900 PLN,2022
+1 997 cm3,Ford Mondeo 2.0 TDCi Titanium,Diesel,6105396682,185 315 km,66 499 PLN,2017
+1 968 cm3,Mitsubishi Lancer 2.0 DID Invite,Diesel,6106028949,203 000 km,21 900 PLN,2008
+1 998 cm3,Chevrolet Cruze 2.0 Automatik,Diesel,6104215726,148 000 km,29 900 PLN,2013
+1 995 cm3,Volvo V40,Diesel,6106002057,96 000 km,24 900 PLN,2016
+2 987 cm3,Mercedes-Benz GLK 350 CDI 4-Matic,Diesel,6104854401,247 000 km,57 900 PLN,2009
+1 395 cm3,Volkswagen Golf,Benzyna,6106028896,212 000 km,46 700 PLN,2013
+1 598 cm3,Skoda Octavia 1.6 TDI Greenline,Diesel,6106028696,180 000 km,59 999 PLN,2014
+1 898 cm3,Volkswagen Golf IV 1.9 TDI 4Mot,Diesel,6106028879,266 000 km,13 800 PLN,2005
+1 386 cm3,Nissan Note 1.4,Benzyna,6106028836,173 000 km,19 900 PLN,2010
+2 967 cm3,Audi A4 3.0 TDI Quattro S tronic,Diesel,6105141863,281 000 km,41 900 PLN,2010
+1 995 cm3,Hyundai ix35 2.0 CRDi Comfort 4WD,Diesel,6102441725,248 000 km,42 900 PLN,2014
+1 364 cm3,Opel Mokka 1.4 T Cosmo S&S 4x4,Benzyna,6101165251,190 000 km,49 900 PLN,2013
+1 598 cm3,Mazda 3 1.6 16V Exclusive,Benzyna,6106028904,229 148 km,14 700 PLN,2007
+1 398 cm3,Opel Adam 1.4 Black Jack S&S,Benzyna,6106006569,139 523 km,45 500 PLN,2017
+1 399 cm3,Opel Astra 1.4 Turbo Start/Stop,Benzyna,6106028725,190 000 km,47 900 PLN,2017
+1 968 cm3,Skoda Superb 2.0 TDI L&K DSG,Diesel,6106028334,136 810 km,99 900 PLN,2016
+2 370 cm3,Volkswagen Transporter,Diesel,6102024905,335 000 km,54 321 PLN,1996
+1 984 cm3,Skoda Superb 2.0 TSI 4x4 L&K DSG,Benzyna,6090650075,99 000 km,125 000 PLN,2016
+1 997 cm3,Peugeot 407 2.0 HDi Premium,Diesel,6106028806,283 000 km,14 000 PLN,2008
+1 598 cm3,Dacia Lodgy 1.6 Laureate,Benzyna+LPG,6103570356,302 000 km,25 600 PLN,2015
+1 995 cm3,BMW Seria 3 318i,Benzyna,6106316134,147 527 km,15 900 PLN,2005
+1 968 cm3,Volkswagen Passat,Diesel,6106028799,312 000 km,17 900 PLN,2009
+2 987 cm3,Mercedes-Benz GLE,Diesel,6106317892,175 500 km,95 000 PLN,2016
+998 cm3,Ford Tourneo Courier 1.0 EcoBoost Sport,Benzyna,6106317882,53 566 km,38 000 PLN,2018
+2 967 cm3,Volkswagen Amarok 3.0 V6 TDI 4Mot Aventura,Diesel,6106317747,62 377 km,55 000 PLN,2017
+1 968 cm3,Volkswagen Passat 2.0 TDI BMT Highline DSG,Diesel,6106317797,107 800 km,41 000 PLN,2016
+1 991 cm3,Mercedes-Benz Klasa E 200 4Matic Coupe 9G-TRONIC,Benzyna,6106317891,56 318 km,70 000 PLN,2018
+1 798 cm3,Honda Civic 1.8 Comfort Navi SD,Benzyna,6106317890,85 000 km,35 000 PLN,2014
+1 999 cm3,Ford Mondeo,Hybryda,6106317881,125 000 km,43 900 PLN,2016
+1 968 cm3,Volkswagen Tiguan,Diesel,6106317895,224 000 km,38 000 PLN,2016
+2 979 cm3,BMW M2,Benzyna,6106317836,67 000 km,99 999 PLN,2017
+2 231 cm3,Toyota RAV4 2.2 D-CAT Prestige,Diesel,6106317894,122 400 km,32 000 PLN,2014
+1 998 cm3,Ford Grand C-MAX 2.0 TDCi Start-Stopp-System,Diesel,6106317845,121 552 km,27 000 PLN,2016
+1 987 cm3,Toyota RAV4 2.0 Comfort 4x2,Benzyna,6106317742,64 704 km,53 000 PLN,2019
+1 328 cm3,Suzuki Jimny 1.3 Elegance EU6,Benzyna+LPG,6106317731,46 000 km,40 000 PLN,2018
+1 969 cm3,Volvo XC 90 D5 AWD Momentum,Diesel,6106317806,190 482 km,60 000 PLN,2015
+1 373 cm3,Suzuki Vitara 1.4 Boosterjet Premium 4WD,Benzyna,6106317732,64 750 km,35 000 PLN,2019
+1 499 cm3,Ford Focus 1.5 EcoBoost Platinium X ASS,Benzyna,6106317844,64 600 km,38 000 PLN,2018
+1 395 cm3,Volkswagen Golf,Benzyna,6106317794,138 000 km,27 000 PLN,2015
+2 480 cm3,Audi RS3 Sportback S tronic,Benzyna,6106317835,23 321 km,112 000 PLN,2020
+1 995 cm3,Toyota Avensis 2.0 D-4D Prestige,Diesel,6106317737,213 100 km,27 000 PLN,2018
+1 598 cm3,Citroën C4 Grand Picasso,Benzyna,6106317840,33 933 km,41 000 PLN,2018
+1 496 cm3,Toyota Yaris 1.5 Dynamic,Benzyna,6106317744,34 000 km,28 000 PLN,2017
+1 956 cm3,Opel Insignia 2.0 CDTI Cosmo,Diesel,6106250246,199 998 km,25 900 PLN,2010
+999 cm3,Skoda Fabia 1.0 Ambition,Benzyna+LPG,6106317660,58 700 km,29 000 PLN,2020
+1 956 cm3,Opel Insignia 2.0 CDTI Cosmo,Diesel,6106248782,227 982 km,26 900 PLN,2011
+1 364 cm3,Toyota Auris 1.4 D-4D Dynamic,Diesel,6106317735,124 530 km,27 000 PLN,2018
+1 969 cm3,Volvo V60 CC D4 Drive-E Summum,Diesel,6106317803,85 000 km,37 000 PLN,2015
+1 956 cm3,Opel Insignia 2.0 CDTI Cosmo,Diesel,6106250681,227 854 km,25 900 PLN,2010
+2 755 cm3,Toyota Hilux 2.8 D-4D Double Cab Invincible 4x4,Diesel,6106317739,25 000 km,149 000 PLN,2021
+4 395 cm3,BMW M8 Competition,Benzyna,6106317838,32 000 km,190 000 PLN,2020
+1 995 cm3,Subaru XV 2.0i Active,Benzyna+LPG,6106317729,85 643 km,44 500 PLN,2017
+1 560 cm3,Peugeot Partner,Diesel,6106272537,240 000 km,18 000 PLN,2013
+1 998 cm3,Subaru Outback,Diesel,6106317728,69 000 km,44 000 PLN,2016
+1 968 cm3,Volkswagen Passat Variant 2.0 TDI SCR DSG (BlueM Tech),Diesel,6106317798,143 150 km,36 000 PLN,2015
+1 896 cm3,Skoda Fabia 1.9 TDI Elegance,Diesel,6106026716,253 879 km,7 900 PLN,2003
+1 598 cm3,Dacia Duster 1.6 SCe Open S&S,Benzyna,6102455267,87 500 km,42 900 PLN,2016
+1 991 cm3,Mercedes-Benz CLA 250 4-Matic Sport,Benzyna,6102927446,109 500 km,87 000 PLN,2014
+1 969 cm3,Volvo XC 90 D5 AWD Inscription,Diesel,6105289871,142 000 km,166 050 PLN,2017
+1 896 cm3,Volkswagen Golf IV 1.9 TDI GTI,Diesel,6105483897,382 000 km,5 000 PLN,1998
+3 605 cm3,Chrysler Town & Country 3.6 Limited,Benzyna+LPG,6106004490,254 000 km,52 000 PLN,2014
+1 796 cm3,Opel Astra III 1.8 Sport,Benzyna+LPG,6105140771,177 000 km,16 777 PLN,2004
+1 997 cm3,Peugeot 307 2.0 HDI Intense,Diesel,6102406286,286 000 km,11 999 PLN,2006
+2 000 cm3,Seat Leon,Benzyna,6105753070,60 800 km,114 900 PLN,2018
+1 998 cm3,Mazda 6 Kombi SKYACTIV-G 165,Benzyna,6105718573,225 000 km,59 900 PLN,2015
+3 964 cm3,Jeep Grand Cherokee Gr 4.0 Limited,Benzyna+LPG,6106028699,270 000 km,12 900 PLN,1994
+1 199 cm3,DS Automobiles DS 4 Crossback,Benzyna,6103091583,73 500 km,55 000 PLN,2016
+1 984 cm3,Audi Q5 45 TFSI quattro S tronic,Benzyna,6102307522,34 000 km,176 900 PLN,2020
+1 332 cm3,Renault Kadjar 1.3 TCe FAP Limited,Benzyna,6106317568,31 000 km,56 000 PLN,2019
+1 199 cm3,Peugeot 208 1.2 PureTech GPF Signature S&S,Benzyna,6106317523,82 900 km,24 000 PLN,2019
+2 996 cm3,Mercedes-Benz GLC AMG 43 4-Matic,Benzyna,6106317478,17 650 km,129 000 PLN,2018
+1 595 cm3,Mercedes-Benz Klasa A,Benzyna,6106317473,110 000 km,32 000 PLN,2013
+2 143 cm3,Mercedes-Benz Klasa E,Diesel,6106317468,319 000 km,25 000 PLN,2009
+1 598 cm3,Renault Espace,Diesel,6106317566,65 639 km,41 000 PLN,2016
+1 199 cm3,Peugeot 3008 1.2 PureTech Active S&S,Benzyna,6106317561,79 000 km,41 900 PLN,2017
+1 199 cm3,Opel Crossland X 1.2 T Design Line S&S,Benzyna,6106317521,82 000 km,26 000 PLN,2018
+1 997 cm3,Peugeot 5008 2.0 BlueHDI GT S&S EAT6,Diesel,6106317562,120 443 km,46 000 PLN,2017
+2 987 cm3,Mercedes-Benz GLE Coupe 350 d 4-Matic,Diesel,6106317476,147 000 km,87 000 PLN,2016
+1 199 cm3,Peugeot 2008 1.2 Pure Tech Crossway S&S EAT6,Benzyna,6106317556,54 000 km,36 000 PLN,2017
+2 967 cm3,Porsche Cayenne Diesel,Diesel,6106317564,276 455 km,64 800 PLN,2013
+2 143 cm3,Mercedes-Benz Viano 2.2 CDI Ambiente (d³ugi),Diesel,6106317466,107 000 km,32 000 PLN,2011
+1 956 cm3,Opel Insignia 2.0 CDTI Innovation S&S,Diesel,6106317522,63 000 km,41 000 PLN,2019
+1 461 cm3,Mercedes-Benz Klasa B 180 (CDI) d 7G-DCT Style,Diesel,6106317469,122 000 km,27 000 PLN,2015
+1 598 cm3,Opel Astra IV 1.6 CDTI Active S&S,Diesel,6106317492,88 162 km,24 000 PLN,2016
+1 197 cm3,Renault Captur 1.2 Energy TCe Night&Day,Benzyna,6106317565,50 330 km,38 000 PLN,2017
+1 197 cm3,Renault Megane ENERGY TCe 130 Start & Stop,Benzyna,6106317570,68 282 km,28 000 PLN,2016
+2 987 cm3,Mercedes-Benz CLS,Diesel,6106317480,275 000 km,38 000 PLN,2010
+2 299 cm3,Nissan Navara DC 4x4 EU6 S&S,Diesel,6106317465,188 750 km,44 000 PLN,2016
+1 995 cm3,Subaru Forester 2.0i-L Exclusive (EyeSight) Lineartronic,Hybryda,6106317649,31 727 km,64 500 PLN,2019
+1 968 cm3,Skoda Superb 2.0 TDI 4x4 L&K DSG,Diesel,6106317639,151 000 km,38 000 PLN,2016
+2 157 cm3,SsangYong Korando 2.2 D Quartz 2WD,Diesel,6106317641,94 000 km,31 000 PLN,2018
+1 968 cm3,Skoda Octavia,Diesel,6106317634,178 000 km,37 000 PLN,2015
+2 157 cm3,SsangYong REXTON 2.2 D Quartz 4WD,Diesel,6106317642,178 000 km,26 000 PLN,2016
+1 597 cm3,SsangYong XLV 1.6 D Crystal Base,Diesel,6106317644,110 000 km,24 000 PLN,2017
+1 498 cm3,Seat Leon 1.5 EcoTSI Evo Full LED Start/Stop,Benzyna,6106317629,65 200 km,28 000 PLN,2019
+1 968 cm3,Skoda Kodiaq 2.0 TDI 4x2 Ambition DSG 7os,Diesel,6106317633,287 000 km,44 000 PLN,2017
+1 618 cm3,Renault Talisman 1.6 Energy TCe Zen EDC,Benzyna,6106317631,127 000 km,26 000 PLN,2016
+999 cm3,Skoda Scala,Benzyna,6106317637,60 000 km,39 000 PLN,2019
+1 498 cm3,Honda HR-V 1.5 Sport,Benzyna,6106317275,61 000 km,60 000 PLN,2019
+1 591 cm3,Kia Pro_cee'd 1.6 T-GDI GT L,Benzyna,6106317322,107 000 km,30 000 PLN,2015
+1 998 cm3,Lexus RX 200t / 300 F Sport,Benzyna,6106317350,129 000 km,76 990 PLN,2016
+1 998 cm3,Mazda MX-5 2.0 Skyfreedom i-ELOOP,Benzyna,6106317395,40 700 km,64 000 PLN,2019
+1 582 cm3,Kia Ceed Cee'd 1.6 CRDi L,Diesel,6103928118,198 000 km,36 500 PLN,2013
+1 998 cm3,Mazda 6,Benzyna,6106317400,124 000 km,40 000 PLN,2017
+1 798 cm3,Honda Civic 1.8 Comfort Navi SD,Benzyna,6106317271,118 200 km,26 000 PLN,2015
+1 560 cm3,Ford Tourneo Connect Grand 1.6 TDCi,Diesel,6106317237,275 000 km,26 000 PLN,2015
