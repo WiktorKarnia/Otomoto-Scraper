@@ -1,12 +1,20 @@
-import matplotlib.pyplot as plt
 import pandas as pd
-import numpy as np
+import matplotlib.pyplot as plt
 
+# Read CSV file into a DataFrame
 df = pd.read_csv('test.csv')
-df["fuel_type"] = df["fuel_type"].replace("Petrol","Benzyna")
-df["fuel_type"] = df["fuel_type"].replace("Hybrid","Hybryda")
-df["fuel_type"] = df["fuel_type"].replace(r'\d+',np.nan,regex=True)
-df.dropna(subset=["fuel_type"], inplace=True)
-counts = df['fuel_type'].value_counts()
-plt.pie(counts, labels=counts.index, autopct='%1.1f%%')
+
+# Extract the numerical value from the km field and convert it to int
+df['km'] = df['km'].str.extract('(\d+)').astype(int)
+
+# Get the first word of the car name
+df['carname'] = df['carname'].str.split().str[0]
+
+# Group the data by car name and calculate the average kilometers
+average_km_by_carname = df.groupby('carname')['km'].mean()
+
+average_km_by_carname.plot(kind='bar')
+plt.title("Average Kilometers by carname")
+plt.xlabel("Marka samochodów")
+plt.ylabel("Średnia ilość kilometrów")
 plt.show()
