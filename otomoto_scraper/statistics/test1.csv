@@ -1,0 +1,255 @@
+capacity,carname,fuel_type,id,km,price,year
+999 cm3,Fiat 500 1.0 Hybrid Cult,Hybryda,6106172123,1 km,64 500 PLN,2022
+2 981 cm3,Porsche 911 Carrera 4 GTS PDK,Benzyna,6105173690,11 000 km,916 000 PLN,2022
+1 798 cm3,Toyota Corolla 1.8 Hybrid GPF Comfort,Hybryda,6106387136,5 km,114 899 PLN,2022
+1 586 cm3,Suzuki Vitara,Benzyna,6105850467,157 425 km,58 999 PLN,2017
+Benzyna,Volkswagen T-Roc,2022,6105850133,1 498 cm3,127 000 PLN,2022
+1 598 cm3,Opel Astra,Diesel,6105850248,132 892 km,46 499 PLN,2016
+1 598 cm3,Fiat Tipo,Diesel,6105850394,296 289 km,29 499 PLN,2016
+3 604 cm3,Porsche Cayenne S,Benzyna,6098070951,73 000 km,152 000 PLN,2015
+1 395 cm3,Volkswagen Golf VII 1.4 TSI BMT Comfortline,Benzyna,6105352665,108 200 km,69 900 PLN,2017
+1 390 cm3,Volkswagen Golf V 1.4 Comfortline,Benzyna,6106127622,182 000 km,14 400 PLN,2006
+1 490 cm3,Opel Insignia 1.5 T Elite S&S,Benzyna,6106127585,68 600 km,88 800 PLN,2019
+2 494 cm3,BMW Seria 5,Benzyna,6106126798,234 000 km,27 000 PLN,2003
+2 494 cm3,BMW Seria 5 523i,Benzyna+LPG,6105980851,238 000 km,22 500 PLN,1999
+0,Volkswagen ID.3,Elektryczny,6106127570,1 km,191 000 PLN,2023
+3 605 cm3,Chrysler Town & Country,Benzyna,6103732795,171 000 km,49 700 PLN,2013
+3 198 cm3,Ford Ranger,Diesel,6105567943,134 071 km,141 450 PLN,2018
+1 995 cm3,Hyundai ix35 2.0 CRDi Comfort 4WD,Diesel,6106126806,181 000 km,55 900 PLN,2014
+1 998 cm3,Kia Carens 2.0 CVVT,Benzyna,6104367502,179 000 km,17 950 PLN,2008
+1 956 cm3,Audi A4,Diesel,6105674512,232 000 km,49 900 PLN,2012
+1 560 cm3,Volvo V70 D2 Summum,Diesel,6105147315,217 000 km,36 800 PLN,2014
+1 950 cm3,Mercedes-Benz GLC,Diesel,6094439445,10 km,289 900 PLN,2022
+2 204 cm3,Honda CR-V 2.2i-CTDi Comfort,Diesel,6106046601,261 000 km,30 800 PLN,2007
+1 248 cm3,Kia Rio,Benzyna+LPG,6106055132,187 200 km,29 990 PLN,2012
+1 969 cm3,Volvo V40 Cross Country D2,Diesel,6101180036,45 000 km,69 900 PLN,2015
+1 598 cm3,Renault Megane 1.6 16V 110,Benzyna,6106322984,153 257 km,23 700 PLN,2010
+1 498 cm3,Volkswagen T-Roc 1.5 TSI Life,Benzyna,6106386997,10 km,118 200 PLN,2022
+1 968 cm3,Audi A4 2.0 TDI Sport S tronic,Diesel,6105980451,169 999 km,87 499 PLN,2018
+1 995 cm3,BMW Seria 1 118i,Benzyna,6105348915,150 000 km,23 999 PLN,2010
+1 084 cm3,Ford Fiesta 1.1 S&S,Benzyna,6106386910,19 000 km,21 800 PLN,2019
+1 591 cm3,Kia Sportage,Benzyna,6105546626,159 000 km,54 900 PLN,2014
+3 996 cm3,Porsche Cayenne,Benzyna,6104479918,35 021 km,690 000 PLN,2021
+0,Peugeot 2008 e-2008 Active Pack,Elektryczny,6106280010,18 012 km,17 000 EUR,2021
+2 993 cm3,BMW M3 Competition M xDrive,Benzyna,6106125220,7 km,481 719 PLN,2022
+1 968 cm3,Volkswagen Multivan,Diesel,6105672794,35 000 km,209 900 PLN,2019
+1 950 cm3,Mercedes-Benz GLC 220 d 4-Matic,Diesel,6102445681,89 832 km,168 000 PLN,2019
+1 618 cm3,Toyota Yaris GR 1.6 Dynamic,Benzyna,6094496629,16 km,255 900 PLN,2021
+1 998 cm3,Opel Astra III GTC 2.0 T OPC,Benzyna,6101616068,217 100 km,16 900 PLN,2005
+1 984 cm3,Volkswagen Passat 2.0 TSI Highline DSG,Benzyna,6106384981,172 000 km,89 000 PLN,2014
+1 991 cm3,Mercedes-Benz Klasa C,Benzyna,6105672779,70 861 km,119 900 PLN,2016
+1 968 cm3,Volkswagen Passat 2.0 TDI Comfortline,Diesel,6106125108,419 000 km,9 500 PLN,2006
+1 332 cm3,Renault Megane 1.3 TCe Intens,Benzyna,6091376141,11 119 km,86 900 PLN,2021
+1 461 cm3,Nissan Note 1.5 dci,Diesel,6104563814,170 000 km,12 900 PLN,2010
+1 798 cm3,Toyota Prius Plug-in 1.8 HSD Prestige,Hybryda,6091051232,155 000 km,79 000 PLN,2016
+5 204 cm3,Audi R8 V10 performance 5.2 FSI quattro S tronic,Benzyna,6103056913,12 000 km,770 000 PLN,2021
+3 993 cm3,Audi A8 4.0 TFSI quattro tiptronic,Benzyna,6101364925,46 000 km,199 000 PLN,2012
+1 498 cm3,Volkswagen Tiguan,Benzyna,6106385640,10 km,167 900 PLN,2023
+1 242 cm3,Fiat 500 C 1.2 Dualogic,Benzyna,6104903120,104 000 km,43 500 PLN,2016
+1 149 cm3,Renault Clio,Benzyna,6106385514,154 000 km,28 999 PLN,2013
+1 999 cm3,Jaguar F-Pace 2.0 i4D AWD R-Sport,Diesel,6105334870,120 000 km,187 999 PLN,2019
+1 998 cm3,Mazda 6 2.0 SkyEnergy,Benzyna,6105758673,210 000 km,54 900 PLN,2015
+1 995 cm3,BMW X1 xDrive25d,Diesel,6095472723,34 000 km,99 900 PLN,2016
+1 998 cm3,Toyota Avensis 2.0 D-4D Combi,Diesel,6106124380,290 000 km,26 000 PLN,2009
+1 598 cm3,Opel Vivaro 1.6 D (CDTI) L2H1,Diesel,6106109361,167 000 km,74 444 PLN,2019
+998 cm3,Hyundai Kona 1.0 T-GDI Smart DCT,Benzyna,6106237616,1 km,111 000 PLN,2022
+0,Hyundai Kona Electric 39kWh Smart,Elektryczny,6106226037,1 km,174 400 PLN,2022
+998 cm3,Hyundai i20 1.0 T-GDi Modern,Benzyna,6106224344,1 km,83 600 PLN,2022
+1 997 cm3,Peugeot 308 2.0 BlueHDi Allure S&S,Diesel,6105180059,150 400 km,43 400 PLN,2015
+5 654 cm3,Dodge RAM 1500 5.7 4x4,Benzyna,6103179346,130 000 km,249 000 PLN,2019
+1 197 cm3,Skoda Fabia 1.2 TSI,Benzyna,6105913718,195 300 km,5 900 PLN,2011
+998 cm3,Hyundai i20 1.0 T-GDi N Line,Benzyna,6106222501,1 km,90 700 PLN,2022
+998 cm3,Hyundai Bayon 1.0 T-GDI Smart,Benzyna,6106213575,1 km,89 800 PLN,2022
+1 598 cm3,Hyundai Elantra 1.6 Smart,Benzyna,6106219403,1 km,106 400 PLN,2022
+998 cm3,Hyundai Bayon 1.0 T-GDI Smart,Benzyna,6106212471,1 km,91 600 PLN,2022
+1 969 cm3,Volvo XC 60,Hybryda,6099724987,45 076 km,196 900 PLN,2020
+1 796 cm3,Opel Vectra,Benzyna,6106108874,188 460 km,8 700 PLN,2003
+1 950 cm3,Mercedes-Benz Klasa E 220 d 4Matic T All-Terrain 9G-TRONIC,Diesel,6106122876,25 500 km,245 000 PLN,2020
+1 984 cm3,Volkswagen T-Roc 2.0 TSI 4Mot R DSG,Benzyna,6106105403,48 000 km,159 000 PLN,2019
+1 968 cm3,Volkswagen Passat 2.0 TDI DPF Comfortline,Diesel,6104965133,276 000 km,17 400 PLN,2005
+1 498 cm3,Ford Kuga,Benzyna,6104603434,53 530 km,78 900 PLN,2016
+2 995 cm3,Audi A7 3.0 TFSI Quattro S tronic,Benzyna,6105671205,68 500 km,89 900 PLN,2013
+1 598 cm3,Opel Meriva 1.6 16V Enjoy Easytronic,Benzyna,6106384647,193 000 km,9 900 PLN,2004
+0,Porsche Taycan,Elektryczny,6105670985,10 km,599 928 PLN,2023
+1 598 cm3,Hyundai Tucson 1.6 T-GDi Executive 2WD,Benzyna,6105670924,200 km,139 950 PLN,2022
+1 390 cm3,Volkswagen Polo 1.4 16V Comfortline,Benzyna,6106070100,180 600 km,24 900 PLN,2009
+1 598 cm3,Hyundai Tucson 1.6 T-GDi 48V Platinum 2WD DCT,Benzyna,6105670812,200 km,162 600 PLN,2022
+2 435 cm3,Volvo S60 2.4 T,Benzyna,6106384572,368 299 km,14 700 PLN,2001
+4 998 cm3,Pontiac Firebird,Benzyna,6099501369,216 500 km,15 750 PLN,1994
+3 996 cm3,Porsche Cayenne,Benzyna,6105670742,5 km,941 600 PLN,2022
+1 984 cm3,Audi A5 40 TFSI Sport S tronic,Benzyna,6106384504,138 000 km,142 000 PLN,2018
+1 968 cm3,Audi Q5,Diesel,6104110238,94 000 km,93 000 PLN,2015
+2 483 cm3,Ford Kuga 2.5 PHEV FWD Titanium X,Hybryda,6106122780,12 km,196 700 PLN,2023
+2 979 cm3,BMW M2 Competition,Benzyna,6106122506,60 050 km,246 000 PLN,2019
+1 398 cm3,Opel Corsa 1.4 Enjoy,Benzyna,6106384146,71 500 km,39 000 PLN,2016
+1 587 cm3,Citroën Berlingo 1.6 16V,Benzyna,6106121603,128 800 km,26 500 PLN,2009
+1 199 cm3,Opel Corsa 1.2 Elegance S&S,Benzyna,6104620994,3 km,87 900 PLN,2022
+1 984 cm3,Volkswagen T-Roc 2.0 TSI 4Mot R DSG,Benzyna,6106384363,10 km,252 500 PLN,2022
+999 cm3,Skoda Fabia 1.0 Ambition,Benzyna,6106384357,112 000 km,38 999 PLN,2019
+1 197 cm3,Kia Stonic 1.2 M,Benzyna,6105670174,5 km,76 342 PLN,2022
+1 997 cm3,Renault Laguna 2.0 16V 140,Benzyna,6105670290,204 000 km,26 990 PLN,2011
+1 798 cm3,Audi A3 1.8 TFSI Attraction S tronic,Benzyna,6104394441,98 000 km,72 900 PLN,2015
+2 995 cm3,Audi A8 L 55 TFSI quattro tiptronic,Benzyna,6106104889,116 000 km,312 420 PLN,2019
+1 598 cm3,Renault Trafic 1.6 dCi 115 Grand Combi L2H1,Diesel,6106122425,199 607 km,65 900 PLN,2016
+2 993 cm3,Land Rover Range Rover Sport S 3.0 SD V6 HSE Dynamic,Diesel,6105288655,159 000 km,151 290 PLN,2013
+2 987 cm3,Mercedes-Benz Klasa E 350 CDI BlueEff Avantgarde,Diesel,6104801621,221 000 km,56 500 PLN,2009
+1 498 cm3,Volvo V40 T3 Drive-E Inscription,Benzyna,6104819518,72 000 km,78 900 PLN,2017
+1 499 cm3,MINI Cooper,Benzyna,6105173103,50 953 km,49 900 PLN,2015
+1 969 cm3,Volvo XC 40,Diesel,6099625665,55 000 km,146 900 PLN,2018
+4 395 cm3,BMW X7 M50i,Benzyna,6106110173,29 000 km,499 000 PLN,2021
+1 997 cm3,Peugeot 308,Diesel,6102046875,117 000 km,56 900 PLN,2016
+1 461 cm3,Renault Megane 1.5 dCi Bose Edition,Diesel,6106385546,133 600 km,24 500 PLN,2011
+1 969 cm3,Volvo XC 60,Benzyna,6099571798,56 700 km,184 900 PLN,2018
+2 998 cm3,Ford Explorer 3.0 EcoBoost 4WD ST-Line,Benzyna,6105798375,1 km,416 200 PLN,2022
+1 997 cm3,Citroën C5 2.0 HDi Exclusive,Diesel,6106383552,298 000 km,25 000 PLN,2010
+1 984 cm3,Audi A4 35 TFSI mHEV Advanced S tronic,Benzyna,6104341846,1 km,180 973 PLN,2022
+1 199 cm3,Opel Grandland X,Benzyna,6104282240,1 km,148 500 PLN,2022
+1 477 cm3,Volvo XC 40 T5 Plug-In Hybrid Plus Bright,Hybryda,6104242062,1 km,219 912 PLN,2022
+1 969 cm3,Volvo XC 90,Hybryda,6104239963,1 km,377 881 PLN,2022
+1 560 cm3,Peugeot 207,Diesel,6106385439,142 600 km,8 700 PLN,2008
+1 997 cm3,Ford Galaxy 2.0 TDCi Titanium MPS6,Diesel,6106102456,210 000 km,55 000 PLN,2014
+1 968 cm3,Audi A6 40 TDI mHEV Quattro Sport S tronic,Diesel,6104236323,1 km,297 000 PLN,2022
+1 968 cm3,Volkswagen Multivan 6.1 2.0 TDI L1 Trendline DSG,Diesel,6104229976,1 km,250 920 PLN,2022
+1 498 cm3,Volkswagen Passat 1.5 TSI EVO Business DSG,Benzyna,6101928767,1 km,144 000 PLN,2022
+1 987 cm3,Toyota Corolla Cross 2.0 Hybrid Style,Hybryda,6106006306,1 km,174 900 PLN,2022
+1 995 cm3,BMW X3 xDrive20d,Diesel,6106124453,1 km,277 100 PLN,2022
+1 498 cm3,Volkswagen Passat 1.5 TSI EVO Business DSG,Benzyna,6101928735,1 km,144 000 PLN,2022
+3 499 cm3,Ford EDGE,Benzyna,6106385376,60 955 km,69 700 PLN,2018
+1 997 cm3,Honda CR-V 2.0 Executive,Benzyna,6106382180,228 123 km,39 900 PLN,2007
+1 984 cm3,Audi Q5,Hybryda,6102267008,7 973 km,269 900 PLN,2021
+1 498 cm3,Seat Ateca 1.5 TSI Xperience S&S DSG,Benzyna,6105458078,5 km,161 900 PLN,2023
+1 395 cm3,Audi Q3,Hybryda,6103715314,6 452 km,237 900 PLN,2021
+1 969 cm3,Volvo V90 Cross Country B5 D AWD Ultimate,Diesel,6103411416,1 km,359 580 PLN,2022
+2 204 cm3,Honda Civic 2.2i-CTDi Sport,Diesel,6102179403,253 383 km,24 900 PLN,2011
+1 598 cm3,Peugeot 308 SW 155 THP,Benzyna,6102807952,181 000 km,25 900 PLN,2012
+1 997 cm3,Ford Kuga 2.0 TDCi 4WD Titanium,Diesel,6105347654,211 430 km,56 900 PLN,2013
+1 598 cm3,Opel Astra II Cabrio 1.6,Benzyna,6103527444,183 300 km,4 100 PLN,2002
+1 991 cm3,Mercedes-Benz CLA,Benzyna,6103816049,113 614 km,299 900 PLN,2020
+2 967 cm3,Porsche Macan S Diesel,Diesel,6103608260,44 000 km,209 900 PLN,2016
+2 999 cm3,Mercedes-Benz Klasa E,Benzyna,6102475486,35 042 km,439 900 PLN,2021
+1 497 cm3,Toyota Yaris Hybrid 1.5 Comfort,Benzyna,6099281581,1 km,95 061 PLN,2022
+1 490 cm3,Toyota Yaris Cross,Hybryda,6106071794,1 km,119 100 PLN,2022
+998 cm3,Toyota Aygo X 1.0 VVT-i Style,Benzyna,6105931370,1 km,72 900 PLN,2022
+1 490 cm3,Toyota Yaris Cross,Hybryda,6105931173,1 km,120 000 PLN,2022
+1 798 cm3,Toyota C-HR,Hybryda,6105931063,1 km,127 000 PLN,2023
+1 490 cm3,Toyota Yaris Cross,Hybryda,6105930766,1 km,143 200 PLN,2022
+1 618 cm3,Toyota Yaris GR 1.6 Dynamic,Benzyna,6105754801,7 648 km,179 900 PLN,2021
+1 984 cm3,Skoda Superb 2.0 TSI Style DSG,Benzyna,6098054136,1 km,164 000 PLN,2022
+2 487 cm3,Toyota RAV4 2.5 Hybrid Executive 4x4,Hybryda,6098609761,1 km,228 500 PLN,2022
+1 598 cm3,Nissan Juke 1.6,Benzyna,6106384927,90 000 km,51 999 PLN,2018
+1 598 cm3,Renault Grand Scenic,Diesel,6106384954,151 000 km,37 999 PLN,2013
+1 999 cm3,Land Rover Range Rover Velar 2.0 TD4 R-Dynamic HSE,Diesel,6105741582,111 000 km,169 000 PLN,2018
+1 987 cm3,Toyota RAV4,Benzyna,6097751048,1 km,175 111 PLN,2022
+1 895 cm3,BMW Seria 3 318i,Benzyna,6106384944,296 000 km,11 900 PLN,2000
+2 967 cm3,Audi Q7,Diesel,6102829077,122 000 km,113 000 PLN,2015
+1 753 cm3,Ford Focus 1.8 TDCi Ghia,Diesel,6105525853,251 200 km,5 500 PLN,2004
+999 cm3,Skoda Kamiq 1.0 TSI Ambition,Benzyna,6101053426,1 km,97 550 PLN,2022
+3 996 cm3,Porsche Panamera Turbo Sport Turismo,Benzyna,6098671813,123 000 km,456 182 PLN,2018
+1 798 cm3,Toyota C-HR 1.8 Hybrid GPF GR Sport,Hybryda,6097745886,1 km,153 500 PLN,2022
+0,Audi e-tron GT,Elektryczny,6104989141,14 000 km,570 000 PLN,2021
+3 471 cm3,Honda Pilot 3.5 V6 EX,Benzyna+LPG,6105978498,282 000 km,28 500 PLN,2004
+4 163 cm3,Audi S5 4.2 Quattro Tiptr,Benzyna,6105060035,239 000 km,47 999 PLN,2009
+4 663 cm3,Mercedes-Benz SL 500 7G-TRONIC,Benzyna,6106123477,36 000 km,279 000 PLN,2012
+1 598 cm3,Hyundai Tucson 1.6 T-GDi Executive 2WD,Benzyna,6105847247,1 km,153 800 PLN,2023
+1 798 cm3,Toyota C-HR 1.8 Hybrid GPF Style,Hybryda,6095144169,1 km,136 616 PLN,2022
+1 798 cm3,Toyota C-HR 1.8 Hybrid GPF Comfort,Hybryda,6095143598,1 km,130 700 PLN,2022
+1 798 cm3,Toyota C-HR,Hybryda,6094673438,1 km,160 877 PLN,2022
+4 244 cm3,Maserati Quattroporte Sport GT DuoSelect,Benzyna,6101818016,119 000 km,37 900 PLN,2007
+1 991 cm3,Mercedes-Benz SL AMG 43 AMG SPEEDSHIFT MCT 9G,Benzyna,6105742484,450 km,620 479 PLN,2022
+2 967 cm3,Audi A6 3.0 TDI Quattro Competition Tiptr,Diesel,6101648595,173 000 km,125 000 PLN,2015
+1 950 cm3,Mercedes-Benz GLC 300 d 4-Matic,Diesel,6106238459,27 000 km,269 900 PLN,2020
+1 995 cm3,BMW Seria 1 118d M Sport Shadow,Diesel,6106384877,129 000 km,36 500 PLN,2016
+1 498 cm3,Honda CR-V,Benzyna,6100135369,39 000 km,115 000 PLN,2018
+1 998 cm3,Renault Laguna 2.0 TCe 205,Benzyna,6105359015,223 000 km,29 999 PLN,2009
+1 993 cm3,Mercedes-Benz Klasa C 220 T d 9G-TRONIC,Diesel,6105674297,23 000 km,184 900 PLN,2021
+875 cm3,Lancia Ypsilon Y 0.9 TwinAir Turbo 8V Automatik,Benzyna,6105959250,94 000 km,29 900 PLN,2011
+1 598 cm3,Opel Astra V 1.6 CDTI Elite S&S,Diesel,6106386804,65 000 km,59 900 PLN,2019
+1 332 cm3,Renault Megane,Benzyna,6105674264,65 272 km,75 700 PLN,2019
+1 968 cm3,Skoda Superb 2.0 TDI Sportline,Diesel,6106126875,171 950 km,99 900 PLN,2018
+1 969 cm3,Volvo XC 90 T6 AWD Momentum 7os,Benzyna,6100107699,51 723 km,159 999 PLN,2019
+1 398 cm3,Opel Corsa 1.4 16V,Benzyna,6105340156,171 737 km,19 000 PLN,2010
+3 471 cm3,Honda Odyssey,Benzyna,6097104607,48 690 km,155 000 PLN,2020
+2 979 cm3,BMW X5 xDrive35i Sport-Aut,Benzyna,6105180673,65 000 km,147 999 PLN,2017
+1 498 cm3,Volkswagen Tiguan Allspace,Benzyna,6105774138,10 km,179 900 PLN,2022
+1 968 cm3,Skoda Superb 2.0 TDI 4x4 Sportline DSG,Diesel,6105142612,180 000 km,96 900 PLN,2016
+2 995 cm3,Audi S4 3.0 TFSI Quattro Tiptronic,Benzyna,6102655217,29 250 km,182 000 PLN,2019
+898 cm3,Renault Clio 0.9 Energy TCe Alize,Benzyna,6103789132,65 000 km,43 900 PLN,2019
+1 984 cm3,Skoda Octavia,Benzyna,6099966735,30 190 km,139 900 PLN,2019
+1 997 cm3,Peugeot 508 SW BlueHDi 180 EAT8,Diesel,6094109663,65 100 km,146 900 PLN,2020
+3 996 cm3,Porsche Panamera,Benzyna,6105073307,65 150 km,589 000 PLN,2018
+Diesel,Volkswagen Touareg,2022,6105780661,2 967 cm3,372 900 PLN,2022
+1 950 cm3,Mercedes-Benz GLC,Diesel,6094440019,10 km,285 555 PLN,2022
+1 199 cm3,Opel Crossland X 1.2 ECOTEC Start/Stop,Benzyna,6105458611,128 150 km,68 990 PLN,2018
+1 769 cm3,Nissan Primera,Benzyna+LPG,6106124065,252 300 km,10 900 PLN,2004
+2 993 cm3,BMW X5,Diesel,6106121791,43 729 km,110 000 PLN,2009
+1 998 cm3,MINI John Cooper Works Countryman All4,Benzyna,6104623821,1 km,230 100 PLN,2022
+2 995 cm3,Audi A7 55 TFSI Quattro S tronic,Benzyna,6095269042,93 000 km,289 050 PLN,2018
+2 000 cm3,Ford Mondeo,Diesel,6105099849,230 000 km,22 900 PLN,2007
+998 cm3,Kia Ceed 1.0 T-GDI M,Benzyna,6106126552,21 000 km,79 900 PLN,2021
+Benzyna,Volkswagen Arteon,2022,6105779157,1 498 cm3,169 900 PLN,2022
+2 435 cm3,Volvo S40,Benzyna,6105979878,229 000 km,17 900 PLN,2004
+1 598 cm3,Opel Insignia 1.6 T Edition,Benzyna+LPG,6106385195,226 300 km,27 900 PLN,2009
+2 401 cm3,Volvo S60,Diesel,6105963514,282 487 km,18 500 PLN,2004
+2 987 cm3,Mercedes-Benz ML 320 CDI 4-Matic,Diesel,6106126197,236 521 km,33 900 PLN,2007
+2 967 cm3,Audi A8,Diesel,6101673030,22 760 km,399 900 PLN,2021
+1 997 cm3,Ford Mondeo 2.0 TDCi,Diesel,6106126071,272 364 km,16 900 PLN,2010
+1 998 cm3,BMW Seria 1 128ti sport,Benzyna,6101197694,17 200 km,187 000 PLN,2021
+1 968 cm3,Audi A3 2.0 TDI Ambiente S tronic,Diesel,6104196899,279 800 km,19 000 PLN,2006
+1 984 cm3,Volkswagen Arteon 2.0 TSI R-Line DSG,Benzyna,6097767283,129 000 km,123 000 PLN,2017
+2 300 cm3,Wołga GAZ-24,Benzyna,6104115380,43 000 km,12 000 PLN,1971
+1 598 cm3,Renault Scenic 1.6 16V Authentique,Benzyna,6106126095,174 300 km,8 999 PLN,2003
+1 199 cm3,Opel Mokka 1.2 T Edition S&S,Benzyna,6106277850,1 km,92 840 PLN,2022
+1 498 cm3,Skoda Kamiq 1.5 TSI Style,Benzyna,6103608562,1 km,115 800 PLN,2022
+1 997 cm3,Jaguar XE 2.0 D200 mHEV R-Dynamic HSE,Diesel,6104834002,10 km,324 880 PLN,2022
+1 999 cm3,Volvo V70 T5 Powershift,Benzyna,6099549881,212 000 km,18 999 PLN,2011
+3 996 cm3,Porsche Panamera,Benzyna,6098518655,108 000 km,519 000 PLN,2018
+999 cm3,Dacia Duster,Benzyna+LPG,6105458652,1 km,83 700 PLN,2022
+1 984 cm3,Audi Q5 2.0 TFSI quattro tiptronic,Benzyna,6104418616,96 000 km,91 999 PLN,2016
+2 204 cm3,Honda Accord,Diesel,6104397369,332 000 km,13 500 PLN,2006
+1 968 cm3,Skoda Octavia 2.0 TDI 4x4 Style DSG,Diesel,6102120927,1 km,175 900 PLN,2022
+1 498 cm3,Skoda Karoq 1.5 TSI ACT GPF 4x2 Style DSG,Benzyna,6104668237,1 km,147 550 PLN,2022
+1 968 cm3,Audi A6 Avant 40 TDI S tronic,Diesel,6105365713,140 000 km,129 999 PLN,2019
+1 998 cm3,Subaru Legacy Kombi 2.0D RC NAV,Diesel,6105306675,147 000 km,32 500 PLN,2011
+2 199 cm3,Mercedes-Benz W124 (1984-1993),Benzyna+LPG,6104977903,453 000 km,10 000 PLN,1993
+1 968 cm3,Volkswagen Touran 2.0 TDI DPF Highline DSG,Diesel,6103615185,285 656 km,49 900 PLN,2013
+1 598 cm3,Hyundai Tucson,Benzyna,6104531633,6 389 km,145 999 PLN,2021
+1 997 cm3,Peugeot 508 2.0 BlueHDi First Edition S&S EAT8,Diesel,6105980052,103 400 km,139 900 PLN,2019
+0,Audi Q4,Elektryczny,6106125831,10 km,264 500 PLN,2022
+1 998 cm3,Lexus NX 200t Elite AWD,Benzyna,6106385957,138 200 km,104 900 PLN,2015
+3 800 cm3,Porsche 911,Benzyna,6099865729,60 547 km,485 000 PLN,2014
+1 598 cm3,Fiat Doblo,Diesel,6105811750,1 km,103 689 PLN,2022
+1 969 cm3,Volvo XC 60 D4 Drive-E Summum,Diesel,6104893397,229 000 km,83 000 PLN,2014
+1 598 cm3,Opel Vivaro 1.6 D (CDTI) L1H2 S&S,Diesel,6105154292,46 807 km,107 994 PLN,2016
+1 998 cm3,Mazda 6 SKYACTIV-G 165 i-ELOOP,Benzyna,6105791657,81 000 km,89 000 PLN,2017
+1 197 cm3,Toyota Corolla,Benzyna,6106125704,26 497 km,89 900 PLN,2020
+1 968 cm3,Volkswagen Arteon Shooting Brake 2.0 TDI SCR DSG,Diesel,6106371469,22 000 km,176 500 PLN,2021
+1 968 cm3,Audi Q5 2.0 TDI Quattro Sport S tronic,Diesel,6106125203,67 000 km,198 900 PLN,2019
+1 968 cm3,Audi Q5 40 TDI Sportback quattro S tronic,Diesel,6105099488,5 km,203 500 PLN,2022
+1 969 cm3,Volvo V40 D2 Drive-E Summum,Diesel,6105830497,199 000 km,54 900 PLN,2015
+1 197 cm3,Kia Rio,Benzyna,6102006865,49 348 km,59 850 PLN,2020
+0,Porsche Taycan,Elektryczny,6105848697,4 000 km,749 999 PLN,2022
+2 993 cm3,BMW Seria 5 540d xDrive M Sport sport,Diesel,6104990136,118 200 km,209 900 PLN,2017
+1 198 cm3,Volkswagen Polo 1.2 Trendline,Benzyna,6106348277,149 865 km,22 900 PLN,2010
+2 487 cm3,Toyota RAV4 2.5 Hybrid Comfort 4x2,Hybryda,6092405854,1 km,181 196 PLN,2022
+1 995 cm3,Renault Laguna 2.0 DCi Expression,Diesel,6106125499,234 000 km,19 350 PLN,2008
+2 993 cm3,BMW M4 Competition M xDrive sport,Benzyna,6104416981,5 km,512 000 PLN,2022
+1 498 cm3,Honda HR-V 1.5 Executive (ADAS / Connect+),Benzyna,6105326344,67 000 km,98 000 PLN,2019
+1 998 cm3,MINI John Cooper Works Countryman All4 Sport-Aut,Benzyna,6106125041,48 900 km,138 000 PLN,2018
+1 482 cm3,Kia XCeed 1.5 T-GDI L,Benzyna,6106384825,7 450 km,104 499 PLN,2022
+1 969 cm3,Volvo XC 60 T6 Drive-E Summum,Benzyna,6106384904,132 944 km,81 500 PLN,2015
+1 950 cm3,Mercedes-Benz Klasa V 300 d 4-Matic 9G-Tronic,Diesel,6103843142,99 230 km,298 000 PLN,2019
+2 997 cm3,Porsche Panamera 4S PDK,Benzyna,6097986894,189 000 km,177 500 PLN,2014
+1 199 cm3,Peugeot 208 1.2 VTi Style,Benzyna,6105783405,175 000 km,28 900 PLN,2014
+1 390 cm3,Volkswagen Golf Plus 1.4 TSI Comfortline,Benzyna,6104964023,218 000 km,17 500 PLN,2008
+1 995 cm3,BMW X5 xDrive25d,Diesel,6105954730,42 900 km,300 000 PLN,2020
+3 496 cm3,Ford Flex,Benzyna+LPG,6100243262,253 000 km,59 990 PLN,2013
+1 598 cm3,DS Automobiles DS 4 1.6 PureTech La Premiere,Benzyna,6101986056,5 000 km,199 900 PLN,2022
+1 798 cm3,Skoda Superb,Benzyna,6096699394,114 766 km,94 900 PLN,2018
+1 968 cm3,Volkswagen Sharan 2.0 TDI Blue Motion,Diesel,6106125326,202 000 km,32 900 PLN,2011
+2 487 cm3,Toyota Highlander,Hybryda,6104360830,52 692 km,155 000 PLN,2018
+1 969 cm3,Volvo V90 D4 AWD Momentum,Diesel,6106124960,162 000 km,129 900 PLN,2018
+1 598 cm3,Nissan Qashqai+2 1.6 dCi 4x4 360 S&S,Diesel,6104737334,147 000 km,52 800 PLN,2012
+1 197 cm3,Renault Captur 1.2 Energy TCe Limited,Benzyna,6105644184,29 000 km,61 000 PLN,2017
+1 968 cm3,Skoda Kodiaq 2.0 TDI 4x4 Style DSG,Diesel,6106385764,40 000 km,159 900 PLN,2019
+1 498 cm3,Audi Q3,Benzyna,6103613265,16 459 km,167 900 PLN,2021
+1 995 cm3,BMW Seria 3 316d,Diesel,6106377775,191 545 km,47 500 PLN,2012

@@ -7,6 +7,8 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+#from otomoto_scraper.exporters import MyCsvItemExporter
+
 BOT_NAME = 'otomoto_scraper'
 
 SPIDER_MODULES = ['otomoto_scraper.spiders']
@@ -47,12 +49,15 @@ COOKIES_ENABLED = False
 #SPIDER_MIDDLEWARES = {
 #    'otomoto_scraper.middlewares.OtomotoScraperSpiderMiddleware': 543,
 #}
-
+PROXY_POOL_ENABLED = True
+PROXY_POOL_BAN_POLICY = 'otomoto_scraper.policy.BanDetectionPolicyNotText'
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
     'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
     'scrapy_user_agents.middlewares.RandomUserAgentMiddleware': 400,
+    'scrapy_proxy_pool.middlewares.ProxyPoolMiddleware': 610,
+    'scrapy_proxy_pool.middlewares.BanDetectionMiddleware': 620,
 }
 
 # Enable or disable extensions
@@ -63,9 +68,10 @@ DOWNLOADER_MIDDLEWARES = {
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'otomoto_scraper.pipelines.OtomotoScraperPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    'otomoto_scraper.pipelines.OtomotoScraperPipeline': 300,
+    'otomoto_scraper.pipelines.DuplicatesPipeline' : 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -91,3 +97,7 @@ DOWNLOADER_MIDDLEWARES = {
 # Set settings whose default value is deprecated to a future-proof value
 REQUEST_FINGERPRINTER_IMPLEMENTATION = '2.7'
 TWISTED_REACTOR = 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'
+FEED_EXPORTERS = {
+    'xlsx': 'scrapy_xlsx.XlsxItemExporter',
+    #'csv': 'otomoto_scraper.exporters.MyCsvItemExporter',
+}

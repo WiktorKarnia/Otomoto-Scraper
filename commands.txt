@@ -1,3 +1,14 @@
 pip freeze > requirements.txt
 
-source install.sh (not ./install.sh cause it doesn't work) 
+source install.sh (not ./install.sh cause it doesn't work)
+
+cd otomoto_scraper and exec scrapy crawl *name of spider* in terminal
+
+add to requirements.txt:
+- scrapy_user_agents (in requirements but doesn't work)
+- scrapy_proxy_pool
+- scrapy-selenium
+
+open specific site in shell mode:
+
+scrapy shell "*link to site*"
