@@ -53,9 +53,9 @@ Otomoto-Scraper is a Python-based tool designed to extract data from the Otomoto
 
 3. **Visualize the Data**
 
-The scraped thata may be displayed in form of different charts showing important information about the used car market.
-
-  ```bash
-  cd statistics
-  python cars_counter.py
-   ```
+   The scraped thata may be displayed in form of different charts showing important information about the used car market.
+   
+     ```bash
+     cd statistics
+     python cars_counter.py
+      ```
